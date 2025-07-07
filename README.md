@@ -1,0 +1,2 @@
+# Conclusões
+Apesar dos resultados, é possível notar que o uso do conteúdo das notícias para se assegurar de estar real ou falso, não tem uma acuracidade alta, devido às próprias palavras usadas não apresentarem tanta conexão, como por exemplo 'trump' ser tanto associado à notícias reais quanto associado à notícias falsas, e não em diferentes posições, ambos ocupando o primeiro lugar de real e falso.
